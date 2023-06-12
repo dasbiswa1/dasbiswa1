@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let me explore whatever I know 👋
 
 <!--
 **dasbiswa1/dasbiswa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
